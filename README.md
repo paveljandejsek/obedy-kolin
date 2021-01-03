@@ -1,2 +1,2 @@
 # obedy-kolin
-obedykolin.cz repo
+<https://obedykolin.cz> repo
